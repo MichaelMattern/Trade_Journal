@@ -18,7 +18,7 @@
   - Shows every column: trade metadata plus suggestion/comment.
 
 - **Project File Structure**
-  - app.py
+  - trading_journal.py
   - formatter.py
   - requirements.txt
   - trades.db (optional: gets created on first run)
