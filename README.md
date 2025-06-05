@@ -18,10 +18,10 @@
   - Shows every column: trade metadata plus suggestion/comment.
 
 - **Project File Structure**
-├── app.py
-├── formatter.py
-├── requirements.txt
-└── trades.db (optional: gets created on first run)
+  ─ app.py
+  ─ formatter.py
+  ─ requirements.txt
+  ─ trades.db (optional: gets created on first run)
 
 - **Python Libraries**
   - pip install streamlit pandas
